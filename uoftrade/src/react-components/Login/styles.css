@@ -1,0 +1,36 @@
+.login{
+    width: 100%;
+    margin: auto;
+    max-width: 330px;
+    margin-top: 80px;
+    box-shadow: 0px 0px 20px 0px rgba(15, 15, 15, 0.2);
+    border-radius: 6px;
+    padding: 24px;
+    
+}
+.button{
+    width: 100%;
+    max-width: 330px;
+    margin-top: 20px;
+}
+.reg-button{
+    width: 100%;
+    max-width: 330px;
+    
+}
+.not-reg{
+    margin-top:10px;
+    font:14px;
+}
+.label{
+    margin-top: 10px;
+}
+.remember-me{
+    margin-top: 10px;
+    font-size: 14px
+}
+.forgot-pass{
+    margin-top:10px;
+    font-size: 13px;
+    text-align: right;
+}

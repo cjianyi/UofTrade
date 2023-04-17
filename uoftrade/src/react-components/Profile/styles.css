@@ -1,0 +1,64 @@
+.profileContainer{
+    margin-left: calc(10vw);
+}
+
+.titleProfile{
+    margin-top: 45px;
+    margin-left: 75px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid grey;
+    width: calc(100vw - 300px);
+}
+
+.titleInfo{
+    margin-top: 40px;
+    margin-left: 75px;
+}
+
+.profileInfo{
+    float:left;
+}
+
+.textBoxContainer{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+
+.profilePictureContainer{
+   float:left;
+   margin-left: 125px;
+   margin-top: 40px;
+}
+
+.titleProfilePicture{
+    position:relative;
+    right: 20px;
+}
+
+.pictureButtonContainer{
+    float:left;
+    clear:left;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.submitButtonContainer{
+    float:left;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+
+.uploadButton{
+    float:left;
+    clear:left;
+}
+
+.profilePicture{
+    float:left;
+    width: 100px;
+    height: 100px;
+    border-radius:60%;
+    background-color: lightblue;
+}

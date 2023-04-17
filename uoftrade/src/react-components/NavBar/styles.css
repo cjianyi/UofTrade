@@ -1,0 +1,19 @@
+.navBarHeader {
+    background-color: #00204E;
+ }
+ 
+ .navbar-collapse .navbar-nav .nav-link  {
+     color: white;
+   }
+ 
+ .container .navbar-brand  {
+     color: white;
+   }
+ 
+ .d-flex .btn {
+     color: white;
+ }
+
+ .navbar-brand>img{
+  height: calc(5vh)
+}

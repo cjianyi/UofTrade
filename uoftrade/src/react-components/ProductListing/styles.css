@@ -1,0 +1,119 @@
+.path{
+    border-bottom: 1px solid grey;
+    width: calc(100vw - 300px);
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.productImage {
+    width: 500px;
+    height: 500px;
+    margin-left: 100px;
+    margin-top: 80px;
+    border: 2px solid grey;
+    float:left;
+}
+
+.productInfo{
+    float:left;    
+   margin-bottom: 40px;
+}
+
+.titleProduct{
+    
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.price{
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.description{
+    margin-left: 50px;
+    float:left;
+    margin-top: 20px;
+}
+
+.descriptionContainer{
+    margin-left: 50px;
+    margin-top: 100px;
+    height: 200px;
+    width: 400px;
+    background-color:lightgrey;
+    border-radius: 3%;
+}
+
+.descriptionContent{
+   padding: 10px;
+}
+
+.buttonContainer{
+    position:relative;
+    left: 150px;
+    bottom: 40px;
+}
+
+.profileIconContainer{
+    margin-top: 20px;
+    margin-left: 50px;
+    float:left;
+}
+
+.profileIcon{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: lightblue;
+}
+
+.profileInfoContainer{
+    margin-top: 30px;
+}
+
+.profileName{
+    color:black;
+}
+
+.productEditSection{
+    float:left;
+    clear:left;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+.editButtonContainer{
+    margin-top: 20px;
+    clear:left;
+    margin-bottom: 20px;
+}
+
+.subtitle{
+    float:left;
+    clear:left;
+}
+
+.horizontalLine{
+    border: 1px solid grey;
+    width: 1000px;
+}
+
+
+.textBoxContainer{
+    margin-right: 30px;
+}
+
+.textBoxContainer input {
+    width: 100%;
+}
+
+.editTitle{
+    border-top: 2px dotted grey;
+    padding: 20px;
+    width: calc(100vw - 300px);
+    margin-top: 10px;
+}

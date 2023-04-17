@@ -1,0 +1,37 @@
+.current {
+    float:right;
+    background-color: #00204E;
+    color:white;
+    justify-content: center;
+    clear: both;
+    padding: 8px;
+    border: 3px;
+    margin: 2px;
+    border-radius: 5%;
+}
+
+
+.other {
+    float: left;
+    clear: both;
+    background-color: #5cb85c;
+    padding: 8px;
+    border: 3px;
+    margin: 2px;
+    border-radius: 5%;
+    color: white;
+}
+
+.messageInput {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    float:left;
+    clear: both;
+    width: 80%;
+}
+
+.sendMessage {
+    margin-top: 20px;    
+    margin-bottom: 20px;
+    float: right;
+}

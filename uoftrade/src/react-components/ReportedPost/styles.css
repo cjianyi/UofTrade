@@ -1,0 +1,10 @@
+#reportedPost{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#reportedItems{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

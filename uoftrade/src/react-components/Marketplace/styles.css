@@ -1,0 +1,17 @@
+#title{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+#items {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card{
+    margin: 5px;
+}
+.categoryformdiv{
+    margin: auto;
+    width: 300px;
+}
